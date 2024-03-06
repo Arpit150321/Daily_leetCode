@@ -1,9 +1,5 @@
 package March_2024.D5;
 
-import java.util.Arrays;
-
-//Definition for singly-linked list.
-
 public class Solution {
     public static void main(String[] args) {
 

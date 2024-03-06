@@ -2,7 +2,7 @@ class Solution(object):
     def minimumLength(self, s):
         """
         :type s: str
-        :rtype: int
+        :retype: int
         """
         left = 0
         right = len(s) - 1
@@ -15,6 +15,3 @@ class Solution(object):
             if right < left:
                 return 0
         return right - left + 1
-
-
-            
