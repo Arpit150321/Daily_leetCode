@@ -1,2 +1,2 @@
-<h2>141. Linked List Cycle</h2>
-<h4> Link: https://leetcode.com/problems/linked-list-cycle/description/?envType=daily-question&envId=2024-03-06</h4>
+<h2>876. Middle of the Linked List</h2>
+<h4> Link: https://leetcode.com/problems/middle-of-the-linked-list/description/?envType=daily-question&envId=2024-03-07</h4>
